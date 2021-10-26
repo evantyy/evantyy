@@ -1,6 +1,6 @@
-<h2 align="center"> Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h2>
+<h2 align="center"> Hey there! :) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h2>
 
-<p align="center"> My name is <strong>Evangeline Tan</strong> and I'm currently a penultimate undergraduate studying <strong>Data Science & Business Analytics</strong> 👩‍🎓 
+<p align="center"> My name is <strong>Evangeline Tan</strong> and I'm currently an undergraduate studying <strong>Data Science & Business Analytics</strong> 👩‍🎓 
 <br> I'm passionate about areas of data science, machine learning 💻 and data visualization. 📈 </p>
 
 <p align="center"> When I'm not coding and studying, you can find me listening to music 🎧, playing the saxophone 🎷 or eating food 🍚 🍕. </p>
@@ -8,11 +8,11 @@
 <p align="center"> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="30"> You can find & connect with me here: </p>
 <p align="center"> <a href="https://www.linkedin.com/in/evantyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.instagram.com/evantyy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-<a href="tyyevan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="mailto:tyyevan@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
-🔭 Currently working on anomaly detection techniques and building ML algorithms <br>
-🌱 Currently learning deep learning and computer vision <br>
+🔭 Currently working on anomaly detection techniques & building ML algorithms <br>
+🌱 Currently learning deep learning & computer vision <br>
 👯 Looking to collaborate on something fun <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"> Fun fact: It's my 15th year playing the saxophone 🎷 :)
 </p>
