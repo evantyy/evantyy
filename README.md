@@ -1,14 +1,15 @@
-### Hi there 👋
+## Hey there! My name is Evangeline Tan 👋
 
-<img src="https://raw.githubusercontent.com/<evantyy>/<evantyy>/master/wave.gif" width="30px">
+<img  width="800" height="400" src="https://github.com/evantyy/evantyy/blob/master/social/yashs.gif">
+
+</p>  I'm currently an undergraduate studying Data Science and Business Analytics 👩‍🎓 I'm passionate about areas of data science, machine learning 💻 and data visualization 📈 </p>
+
+</p> When I'm not coding and studying, you can find me listening to music 🎧, playing the saxophone 🎷 or eating 🍚 🍕. </p>
 
 <a href="https://www.linkedin.com/in/evantyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/evantyy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 <!--
-**evantyy/evantyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
