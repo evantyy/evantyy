@@ -1,7 +1,7 @@
 <h2 align="center"> Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> </h2>
 
-<p align="center"> My name is <strong>Evangeline Tan</strong> and I'm currently a penultimate undergraduate studying Data Science and Business Analytics 👩‍🎓 
-I'm passionate about areas of data science, machine learning 💻 and data visualization. 📈 </p>
+<p align="center"> My name is <strong>Evangeline Tan</strong> and I'm currently a penultimate undergraduate studying <strong>Data Science & Business Analytics</strong> 👩‍🎓 
+<br> I'm passionate about areas of data science, machine learning 💻 and data visualization. 📈 </p>
 
 <p align="center"> When I'm not coding and studying, you can find me listening to music 🎧, playing the saxophone 🎷 or eating food 🍚 🍕. </p>
 
@@ -11,13 +11,9 @@ I'm passionate about areas of data science, machine learning 💻 and data visua
 <a href="tyyevan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
-🔭 I’m currently working on anomaly detection techniques and building ML algorithms. </p>
-🌱 I’m currently learning deep learning and computer vision. </p>
-👯 I’m looking to collaborate on something fun. </p>
-🤔 I’m looking for help with reinforced learning and deep learning. </p>
-💬 Ask me anything! </p>
-😄 Pronouns: She/Her </p>
-
+🔭 Currently working on anomaly detection techniques and building ML algorithms <br>
+🌱 Currently learning deep learning and computer vision <br>
+👯 Looking to collaborate on something fun <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"> Fun fact: It's my 15th year playing the saxophone 🎷 :)
 </p>
 <p align="center">
