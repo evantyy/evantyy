@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/<evantyy>/<evantyy>/master/wave.gif" width="30px">
+
+<a href="https://www.linkedin.com/in/evantyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/evantyy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
+
 <!--
 **evantyy/evantyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
