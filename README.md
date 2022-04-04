@@ -12,7 +12,7 @@
 </p>
 
 🔭 Currently working on anomaly detection techniques & building ML algorithms <br>
-🌱 Currently learning deep learning & computer vision <br>
+🌱 Currently learning Deep Learning, Spark & Tensorflow <br>
 👯 Looking to collaborate on something fun <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"> Fun fact: It's my 15th year playing the saxophone 🎷 :)
 </p>
