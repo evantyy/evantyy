@@ -1,16 +1,6 @@
-<h2 align="center"> 
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T1FH0MFF66"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<h2 align="center"> Hey there! :) </h2>
 
-  gtag('config', 'G-T1FH0MFF66');
-</script>
-  Hey there! :) </h2>
-
-<p align="center"> My name is <strong>Evangeline Tan</strong> and I recently graduated with my bachelor's degree in <strong>Data Science & Business Analytics</strong>. 👩‍🎓 
+<p align="center"> My name is <strong>Evangeline Tan</strong> and I graduated with a bachelor's degree in <strong>Data Science & Business Analytics</strong>. 👩‍🎓 
 <br> I'm passionate about areas of Data Science, Machine Learning 💻 and Data Visualization. 📈 </p>
 
 <p align="center"> Away from data & numbers, you can find me listening to music 🎧, playing the saxophone 🎷 or eating 🍚 🍕. </p>
