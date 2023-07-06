@@ -1,4 +1,13 @@
-<h2 align="center"> Hey there! :) </h2>
+<h2 align="center"> Hey there! :) 
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T1FH0MFF66"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T1FH0MFF66');
+</script></h2>
 
 <p align="center"> My name is <strong>Evangeline Tan</strong> and I recently graduated with my bachelor's degree in <strong>Data Science & Business Analytics</strong>. 👩‍🎓 
 <br> I'm passionate about areas of Data Science, Machine Learning 💻 and Data Visualization. 📈 </p>
