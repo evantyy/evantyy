@@ -7,7 +7,6 @@
 
 <p align="center"> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="30"> You can find & connect with me here: </p>
 <p align="center"> <a href="https://www.linkedin.com/in/evantyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a href="https://www.instagram.com/evantyy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 <a href="mailto:tyyevan@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 </p>
 
